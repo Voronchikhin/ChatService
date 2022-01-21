@@ -102,7 +102,7 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.2.140</version> <!-- ex: 1.2.140 -->
+            <version>2.1.210</version> <!-- ex: 2.1.210 -->
         </dependency>
         <dependency>
             <groupId>org.xerial</groupId>
